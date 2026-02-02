@@ -122,17 +122,17 @@ Flexbox (Flexible Box Layout) — это одномерная система к�
 #### 7.1. Навигационное меню
 Горизонтальное меню с использованием Flexbox.
 
-![HTML структура](img/flexbox_html_Lab7_FIO.png)
-![Flexbox меню](img/add_flexbox_Lab7_FIO.png)
+![HTML структура](img/flexbox_html_Lab7_Ryckluk.png)
+![Flexbox меню](img/add_flexbox_Lab7_Ryckluk.png)
 
 ---
 
 #### 7.2. Карточки товаров
 Адаптивные карточки с переносом на новую строку при уменьшении экрана.
 
-![Карточки](img/add_flexbox_cards_Lab7_FIO.png)
-![Карточки с flex](img/add_flexbox_card_Lab7_FIO.png)
-![Кнопка внизу](img/flexbox_card_flex-start_Lab7_FIO.png)
+![Карточки](img/add_flexbox_cards_Lab7_Ryckluk.png)
+![Карточки с flex](img/add_flexbox_card_Lab7_Ryckluk.png)
+![Кнопка внизу](img/flexbox_card_flex-start_Lab7_Ryckluk.png)
 
 ---
 
